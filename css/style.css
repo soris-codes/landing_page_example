@@ -316,7 +316,7 @@ img {
 /* Media Queries */
 @media(max-width: 960px) {
   .showcase {
-    height: 70vh;
+    height: 80vh;
   }
 
   .hide-sm {
@@ -363,7 +363,15 @@ img {
 @media(max-width: 700px) {
   .showcase::after {
     box-shadow: none;
+  }
 
+  .showcase-content h1 {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
+  .showcase-content p {
+    font-size: 1.3rem;
   }
 
   #tab-1-content .tab-1-content-inner {
