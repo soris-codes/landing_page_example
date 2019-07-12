@@ -1,6 +1,7 @@
 # Landing Page Example
 
 - Practiced building a landing page using HTML, CSS, and JS to make a clone of the Netflix landing page. Followed tutorial from Traversy Media.
+- Revamped content and styling choices to change the look of the page.
 
 ## Key Takeaways
 
