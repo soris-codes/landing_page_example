@@ -5,5 +5,6 @@
 ## Key Takeaways
 
 - Learned about viewport height `vh` property and `rem` sizing
-- Use of pseudo-selectors
+- Use of pseudo-selectors to pinpoint elements to be styled
 - Setting up media queries
+- More practice with Javascript - accessing the DOM, adding event listeners, and defining functions to apply styling changes to elements.
